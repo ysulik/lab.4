@@ -15,7 +15,7 @@ int main()
 	cout << "Enter n " << endl;
 	cin >> n;
 
-	mass = new char*[n]; //βϋδελενθε οΰμÿςθ
+	mass = new char*[n]; //Γ’Γ»Γ€Γ₯Γ«Γ₯Γ­Γ¨Γ₯ Γ―Γ Γ¬ΓΏΓ²Γ¨
 	
 	for (int i = 0; i < n; i++) 
 		mass[i] = new char[n];
